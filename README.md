@@ -3,6 +3,14 @@
 * https://www.zeptobook.com/angular-material-table-with-paging-sorting-and-filtering
 * [Download](https://github.com/zeptobook/AngularMaterialTable)
 
+* [Angular Material Table + Sorting + Pagination](https://www.concretepage.com/angular-material/angular-material-table-sorting-pagination)
+  * https://material.angular.io/components/table/overview
+  * https://material.angular.io/components/sort/api
+
+(http://qaru.site/questions/1682286/how-to-use-paginator-from-material-angular)
+(https://stackoverflow.com/questions/45318164/how-to-use-paginator-from-material-angular)
+(https://material.angular.io/components/paginator/api)
+
 # Angularmat
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
