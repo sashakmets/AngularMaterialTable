@@ -1,3 +1,8 @@
+#Angular Material Table With Paging, Sorting And Filtering
+
+* https://www.zeptobook.com/angular-material-table-with-paging-sorting-and-filtering
+* [Download](https://github.com/zeptobook/AngularMaterialTable)
+
 # Angularmat
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
@@ -5,6 +10,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+![screenshot](screenshot.png)
 
 ## Code scaffolding
 
